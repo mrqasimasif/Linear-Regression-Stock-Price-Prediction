@@ -1,4 +1,4 @@
-# Linear-Regression-Stock-Price-Prediction
+# Linear-Regression-Stock-Price-Prediction using Machine Learning
 
 A small Machine Learning Linear Regression model for live prediction of the stock price changes for next 30 days with 93% accuracy on Google Wiki.
 
