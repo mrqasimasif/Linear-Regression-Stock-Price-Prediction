@@ -3,3 +3,5 @@
 A small Machine Learning Linear Regression model for live prediction of the stock price changes for next 30 days with 93% accuracy on Google Wiki.
 
 The dataset is taken form https://Quandl.org that is live data.
+
+Yeah this is the finest of the prediction regression models.
